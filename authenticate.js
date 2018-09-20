@@ -1,3 +1,4 @@
+var createError = require('http-errors');
 var passport = require('passport');
 var LocalStrategy = require('passport-local').Strategy;
 var User = require('./models/user');
@@ -22,18 +23,31 @@ opts.secretOrKey = config.secretKey;
 
 exports.jwtPassport = passport.use(new JwtStrategy(opts,
     (jwt_payload, done) => {
-    console.log("JWT payload: ", jwt_payload);
-User.findOne({_id: jwt_payload._id}, (err, user) => {
-    if (err) {
-        return done(err, false);
-    }
-    else if (user) {
-        return done(null, user);
-    }
-    else {
-        return done(null, false);
-    }
+        console.log("JWT payload: ", jwt_payload);
+        User.findOne({_id: jwt_payload._id}, (err, user) => {
+        if (err) {
+            return done(err, false);
+        }
+        else if (user) {
+            return done(null, user);
+        }
+        else {
+            return done(null, false);
+        }
     });
 }));
 
+
+
 exports.verifyUser = passport.authenticate('jwt', {session: false});
+
+
+exports.verifyAdmin = function(req, res, next) {
+    if (req.user.admin) {
+        next()
+    } else {
+        var err = createError(403)
+        err.message = "You are not authorized to perform this operation!"
+        next(err)
+    }
+}
