@@ -140,3 +140,36 @@ https://stackoverflow.com/questions/8659808/how-does-http-file-upload-work
 
 Node multipart/form-data Explained
 http://derpturkey.com/node-multipart-form-data-explained/
+
+CORS Resources
+CORS NPM module
+https://www.npmjs.com/package/cors
+
+Cross-origin resource sharing
+https://en.wikipedia.org/wiki/Cross-origin_resource_sharing
+
+Same-origin policy
+https://en.wikipedia.org/wiki/Same-origin_policy
+
+Same-origin policy (MDN)
+https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy
+
+HTTP access control (CORS on MDN)
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS
+
+Server-Side Access Control (CORS on MDN)
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Server-Side_Access_Control
+
+
+Other Resources
+Using CORS in Express
+https://medium.com/trisfera/using-cors-in-express-cac7e29b005b
+
+Using CORS
+https://www.html5rocks.com/en/tutorials/cors/
+
+Cross-domain Ajax with Cross-Origin Resource Sharing
+https://www.nczonline.net/blog/2010/05/25/cross-domain-ajax-with-cross-origin-resource-sharing/
+
+CORS In Action
+http://arunranga.com/examples/access-control/
