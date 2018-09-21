@@ -82,3 +82,40 @@ https://hackernoon.com/your-node-js-authentication-tutorial-is-wrong-f1a3bf831a4
 
 Express, Passport and JSON Web Token (jwt) Authentication for Beginners
 https://jonathanmh.com/express-passport-json-web-token-jwt-authentication-beginners/
+
+
+# Semana 4
+
+HTTPS
+HTTPS (Wikipedia)
+https://en.wikipedia.org/wiki/HTTPS
+
+Public Key Cryptography
+https://en.wikipedia.org/wiki/Public-key_cryptography
+
+Transport Layer Security
+https://en.wikipedia.org/wiki/Transport_Layer_Security
+
+Node's HTTPS Server
+Node HTTPS Server
+https://nodejs.org/api/https.html
+
+Book
+Kurose, James F., and Keith W. Ross. Computer networking: a top-down approach. Pearson, 2017, ISBN-10: 0134522206 • ISBN-13: 9780134522203.
+http://www.pearsonhighered.com/educator/product/Computer-Networking-A-Top-Down-Approach-Plus-Modified-MasteringEngineering-with-Pearson-eText-Access-Card-Package-7E/9780134522203.page
+
+Other Resources
+Howto: Make Your Own Cert With OpenSSL on Windows
+http://blog.didierstevens.com/2015/03/30/howto-make-your-own-cert-with-openssl-on-windows/
+
+OpenSSL for Windows
+https://wiki.openssl.org/index.php/Binaries
+
+How to Use SSL/TLS with Node.js
+http://www.sitepoint.com/how-to-use-ssltls-with-node-js/
+
+Adding HTTPS (SSL) to Express 4.X Applications
+http://blog.ayanray.com/2015/06/adding-https-ssl-to-express-4-x-applications/
+
+How does HTTPS actually work?
+http://robertheaton.com/2014/03/27/how-does-https-actually-work/
