@@ -119,3 +119,24 @@ http://blog.ayanray.com/2015/06/adding-https-ssl-to-express-4-x-applications/
 
 How does HTTPS actually work?
 http://robertheaton.com/2014/03/27/how-does-https-actually-work/
+
+
+Node Resources
+Multer
+https://github.com/expressjs/multer
+
+Other Resources
+Form-based File Upload in HTML (IETF RFC 1867)
+https://tools.ietf.org/html/rfc1867
+
+HTML5 A vocabulary and associated APIs for HTML and XHTML (W3C Recommendation) (multipart/form-data)
+https://www.w3.org/TR/2014/REC-html5-20141028/
+
+Returning Values from Forms: multipart/form-data (IETF RFC 7578)
+https://tools.ietf.org/html/rfc7578
+
+How does HTTP file upload work? (StackOverflow)
+https://stackoverflow.com/questions/8659808/how-does-http-file-upload-work
+
+Node multipart/form-data Explained
+http://derpturkey.com/node-multipart-form-data-explained/
