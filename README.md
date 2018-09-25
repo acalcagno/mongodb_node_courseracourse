@@ -173,3 +173,36 @@ https://www.nczonline.net/blog/2010/05/25/cross-domain-ajax-with-cross-origin-re
 
 CORS In Action
 http://arunranga.com/examples/access-control/
+
+
+
+OAuth Resources
+OAuth 2.0
+http://oauth.net/2/
+
+OAuth
+http://oauth.net/
+
+OAuth (Wikipedia)
+https://en.wikipedia.org/wiki/OAuth
+
+Facebook Resources
+https://developers.facebook.com/apps/
+https://developers.facebook.com/apps/
+
+Passport Resources
+passport-facebook-token
+https://github.com/drudge/passport-facebook-token
+
+Other Resources
+Social Authentication With Passport.js
+http://mherman.org/blog/2013/11/10/social-authentication-with-passport-dot-js/#.Vua24dV94UE
+
+An Introduction to OAuth 2
+https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2
+
+Understanding OAuth2
+http://www.bubblecode.net/en/2016/01/22/understanding-oauth2/
+
+The OAuth Bible
+http://oauthbible.com/
