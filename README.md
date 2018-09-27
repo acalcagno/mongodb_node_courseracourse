@@ -206,3 +206,42 @@ http://www.bubblecode.net/en/2016/01/22/understanding-oauth2/
 
 The OAuth Bible
 http://oauthbible.com/
+
+
+
+Backend as a Service (BaaS): Firebase: Additional Resources
+
+Angular Application
+https://github.com/jmuppala/conFusion-Angular4-Firebase.git
+
+Firebase Resources
+Firebase
+http://firebase.google.com/
+
+Firebase Console
+https://console.firebase.google.com/
+
+Firebase Documentation
+https://firebase.google.com/docs/
+
+Firebase NPM module
+https://www.npmjs.com/package/firebase
+
+AngularFire2 NPM Module
+https://github.com/angular/angularfire2
+
+Other Resources
+Mobile Backend as a Service (Wikipedia)
+https://en.wikipedia.org/wiki/Mobile_backend_as_a_service
+
+Backend as a Service
+http://baas.apievangelist.com/
+
+Mobile Backend-as-a-Service (MBaaS) - Options and Alternatives
+http://www.thbs.com/blog/mobile-backend-as-a-service-mbaas-options-and-alternatives
+
+MBaaS shoot-out: 5 clouds for building mobile apps
+http://www.infoworld.com/article/2842791/application-development/mbaas-shoot-out-5-cloud-platforms-for-building-mobile-apps.html
+
+HOW TO CHOOSE THE RIGHT BACKEND AS A SERVICE (BAAS) PLATFORM
+http://waracle.net/how-to-choose-the-right-backend-as-a-service-baas-platform/
